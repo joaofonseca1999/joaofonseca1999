@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @joaofonseca1999
 - 👀 I’m interested in learn programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Python and modern fraeworks
+- 💞️ I’m looking to collaborate on ideas
+- 📫 How to reach me by https://www.linkedin.com/in/jo%C3%A3o-vilela-fonseca/
+- 😄 Pronouns: Ele
+- ⚡ Fun fact: I'm passionate about football
 
 <!---
 joaofonseca1999/joaofonseca1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
